@@ -1,0 +1,6 @@
+Messi 2 2 5
+Neymar 8 4 12
+Lampart 7 2 8
+Suarez 9 6 99
+Pique 5 6 1
+Ronaldo 6 4 7
